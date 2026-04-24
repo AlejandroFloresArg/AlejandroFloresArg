@@ -2,7 +2,8 @@
 <h1 align="center">Hola, soy José Alejandro 👋</h1>
 </div>
 <div align="center">
-<img src="https://i.imgur.com/y0ulyTD.jpeg" width="800" alt="Banner Ingeniero en Software">
+<img width="700" height="300" alt="Ale1" src="https://github.com/user-attachments/assets/355ef936-6784-497b-9951-e105e09a0143" />
+
 </div>
 
 ## Sobre mi
