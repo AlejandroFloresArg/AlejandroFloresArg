@@ -9,7 +9,7 @@
 ## Sobre mi
 
 - 🚀 Estudiante de **Ingeniería en Software** en la UTEG.
-- 📊 Aspirante a **Data Engineer** y apasionado por el análisis de datos.
+- 📊 Aspirante a **Data Engineer** e **Inteligencia Artificial**.
 - 🛠️ Dominio técnico en **Python (Pandas), SQL (PostgreSQL/MySQL)** y **Next.js**.
 - 🔧 Experiencia en soporte técnico de hardware y administración de negocios.
 
