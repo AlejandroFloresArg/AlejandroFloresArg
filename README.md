@@ -9,9 +9,9 @@
 ## Sobre mi
 
 - 🚀 Estudiante de **Ingeniería en Software** en la UTEG.
-- 📊 Aspirante a **Data Engineer** e **Inteligencia Artificial**.
-- 🛠️ Dominio técnico en **Python (Pandas), SQL (PostgreSQL/MySQL)** y **Next.js**.
-- 🔧 Experiencia en soporte técnico de hardware y administración de negocios.
+- 📊 Software aplicado a **Salud** y **Automotriz**.
+- 🛠️ Dominio técnico en **Python (Pandas)**, **SQL** y **Next.js**.
+- 🔧 7 años gestionando taller mecánico de motocicletas - entiendo el negocio desde adentro.
 
 <br>
 
